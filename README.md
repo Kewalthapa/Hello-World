@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang = "en">
 <head>
 	<link rel = "stylesheet" type = "text/css" href = "styles/color.css" />
@@ -6,8 +5,7 @@
 </head>
 <body>
 <header>
-<h1>Hello, World</h1>
-<p>I am Kewal Thapa, and this is my first github page.</p> 
+<h1>I am Kewal Thapa, and this is my first github page.</h1> 
 </header>
 </body>
 
