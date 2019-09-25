@@ -3,7 +3,6 @@
 <head>
 	<link rel = "stylesheet" type = "text/css" href = "styles/color.css" />
 	<meta charset="utf-8" />
-	<title>Github page</title>
 </head>
 <body>
 <header>
